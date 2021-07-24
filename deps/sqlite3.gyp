@@ -59,7 +59,10 @@
             # This is currently required by better-sqlite3.
             'SQLITE_ENABLE_COLUMN_METADATA',
           ],
-        }]
+        }],
+        ['OS=="linux"', {
+          'cflags': ['-maes', '-msse4.2'],
+        }],
       ],
       'configurations': {
         'Debug': {

@@ -2,13 +2,13 @@
   "name": "better-sqlite3-multiple-ciphers-test",
   "version": "7.4.3",
   "description": "better-sqlite3 with multiple-cipher encryption support",
-  "homepage": "https://github.com/m4heshd/better-sqlite3-multiple-ciphers",
+  "homepage": "https://github.com/m4heshd/better-sqlite3-multiple-ciphers-test",
   "author": "Mahesh Bandara Wijerathna (m4heshd) <m4heshd@gmail.com>",
   "private": true,
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/m4heshd/better-sqlite3-multiple-ciphers.git"
+    "url": "git://github.com/m4heshd/better-sqlite3-multiple-ciphers-test.git"
   },
   "dependencies": {
     "bindings": "^1.5.0",
